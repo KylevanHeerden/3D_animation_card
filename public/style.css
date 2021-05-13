@@ -5,6 +5,7 @@
 }
 
 body {
+  background-image: url('oceanrock.jpg');
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
   display: flex;
@@ -12,7 +13,6 @@ body {
   justify-content: center;
   perspective: 1000px;
   background-color: rgba(0, 0, 0, 0.9);
-  background-image: url('../public/ocean&rock.jpg');
 }
 .container {
   width: 50%;
